@@ -21,3 +21,4 @@ Question 7: In your own words, what are cookies used for?
 Cookies are used to store data in order to avoid repeatedly requesting data.
 
 Question 8: What is the link to your code on GitHub?
+https://github.com/kbalisnomo/cmput404-lab3
