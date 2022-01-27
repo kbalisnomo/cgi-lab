@@ -1,0 +1,23 @@
+Question 1: How do you inspect all environment variables in Python?
+By utilizing the os libraries environ variable:
+os.environ
+
+Question 2: What environment variable contains the query parameter data?
+The QUERY_STRING environment variable contains the query parameter data
+
+Question 3: What environment variable contains information about the user’s browser?
+The HTTP_USER_AGENT environment variable contains information about the user's browser
+
+Question 4: How does the POSTed data come to the CGI script?
+As bytes through stdin
+
+Question 5: What is the HTTP header syntax to set a cookie from the server?
+Set-Cookie: [key] = value
+
+Question 6: What is the HTTP header syntax the browser uses to send the cookie back?
+key=value
+
+Question 7: In your own words, what are cookies used for?
+Cookies are used to store data in order to avoid repeatedly requesting data.
+
+Question 8: What is the link to your code on GitHub?
